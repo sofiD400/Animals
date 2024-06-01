@@ -1,0 +1,76 @@
+.dom a{
+	text-decoration:none;
+	font-size:35px;
+	color:green;
+	padding-right:15px;
+}
+
+.pov {
+	background:url(h546ppt7ei64dwnmrqhlqpo2qygs7obz.jpg);
+	background-size:cover;
+}
+
+.ert img{
+	vertical-align:bottom;
+	margin-top:100px;
+	float:left;
+}
+
+.mol{
+	color:red;
+	font-size:35px;
+	font-style:italic;
+}
+
+.menu{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+.menu li{
+	display:inline-block;
+}
+
+.menu a{
+	color:blue;
+	text-decoration:none;
+	font-size:35px;
+	padding-right:15px;
+}
+
+.dol{
+	text-align:center;
+}
+
+.tov{
+	text-align:center;
+}
+
+.joh{
+	text-align:center;
+}
+
+
+.hgt{
+	text-align:center;
+}
+
+
+.yuk{
+	text-align:center;
+}
+
+
+.tro{
+	color:green;
+	font-size:35px;
+	font-style:italic;
+}
+
+
+.bok{
+	float:right;
+}
+
+
